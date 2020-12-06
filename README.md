@@ -1,5 +1,6 @@
 
 # ADM Homework 3
+![alt text](https://images.squarespace-cdn.com/content/v1/521b03dfe4b090faa025337f/1431575334786-HMH47AMFY26R8XWIJ305/ke17ZwdGBToddI8pDm48kDLdy417ioW1XN8pVTRRcrV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ucw9RPZaVNMwAiaCH5cUexlLh88IEecQmSwgsR20m9ERguvgCERZpXNZ8mcSs3tIUA/image-asset.jpeg)
 ## Authors: Nicola Calabrese, Giacomo Ruà and Zain Ullah
 #### Course: Masters in Data Science
 ```
