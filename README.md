@@ -14,5 +14,5 @@ This is the main file of the homework, which contains all the required outputs f
 
 #### 2. functions.py file
 
-This is the most techniqal file which contain all the functionality on the outputs of main.ipynb is based.
+This is the most technical file which contain all the functionality on the outputs of main.ipynb is based.
 
