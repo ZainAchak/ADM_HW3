@@ -16,3 +16,11 @@ This is the main file of the homework, which contains all the required outputs f
 
 This is the most technical file which contain all the functionality on the outputs of main.ipynb is based.
 
+### [NOTE]
+Some the files like vocabulary.pkl, Inverted_Index.pkl and ID_with_tfidf.pkl which are called in functions.py file, are actually the pickle dumped files for the models.
+Which can be access from the given below links
+
+1. vocabulary.pkl [http://www.mediafire.com/file/6bbti349ifchh1v/vocabulary.pkl/file]
+2. Inverted_Index.pkl [http://www.mediafire.com/file/mejr48vnsz1fzgn/Inverted_Index.pkl/file]
+3. ID_with_tfidf.pkl [http://www.mediafire.com/file/1os27gqv2fdjytu/ID_with_tfidf.pkl/file]
+
